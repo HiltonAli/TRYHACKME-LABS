@@ -3,3 +3,5 @@ TRYHACKME WIRESHARK 101 LAB
 
 Pakect disection 
 OSI MODEL PHYSICAL - DATA LINK - NETWORK - TRANSPORT - SESSION - PRESSENTATION - APPLICATION
+Frame/packet, source [MAC], source [IP], protocol, protocol errors, application protocol, and application data
+
