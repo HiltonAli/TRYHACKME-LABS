@@ -6,3 +6,4 @@ OSI MODEL PHYSICAL - DATA LINK - NETWORK - TRANSPORT - SESSION - PRESSENTATION -
 Frame/packet, source [MAC], source [IP], protocol, protocol errors, application protocol, and application data
 
 
+![image alt](https://github.com/HiltonAli/TRYHACKME-LABS/blob/main/osi%20model.png?raw=true)
